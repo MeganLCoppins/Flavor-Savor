@@ -15,15 +15,15 @@ var recipeURL =
   recipeKEY +
   "&app_id=" +
   recipeID +
-  "&q=recipe" +
+  "&q=dessert" +
   "&to=18";
 
 $.ajax({
   url: recipeURL,
   method: "GET"
 }).then(function (response) {
-
-  for (var i = 0; i < 8; i++) {
+  console.log(response.hits)
+  for (var i = 8; i < 16; i++) {
 
     var li = $("<li>").addClass("glide__slide");
     var div = $("<div>");

@@ -15,13 +15,13 @@ In this project our team created a web based app called Flavor Savor that finds 
 
 The following image demonstrates on the computer:
 
-![SC Flavor Savor computer display](assets/imgs/flavor-savor-sc.png)
+![SC Flavor Savor computer display](assets/imgs/main.png)
 
 <br>
 
 The following image demonstrates on the mobile:
 
-![SC Flavor Savor mobile display](assets/imgs/sc-flavor-savor-phone.jpeg)
+![SC Flavor Savor mobile display](assets/imgs/mobile.png)
 
 <br>
 

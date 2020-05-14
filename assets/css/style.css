@@ -2,6 +2,8 @@
 body{
     min-height: 100vh;
     background-image: url(https://images.pexels.com/photos/2341290/pexels-photo-2341290.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* styling for the header */
@@ -39,15 +41,20 @@ nav{
 
 .search{
     margin-right: 30px;
+    display: inline-flex;
 }
-
+#searchBtn {
+    border-color: transparent;
+}
 .input{
     border-width: 4px;
     border-color: #d9f7ea;
     color: black;
-    background-color: #77f1be;
+    font-weight: bold;
 }
-
+.glide {
+    margin-top: 6%;
+}
 /* style for homeRecipes */
 #homeRecipes{
     text-align: center;
@@ -114,4 +121,17 @@ nav{
 .gif{
     height: 300px;
     width: 300px;
+}
+@media screen and (max-width: 1024px){
+    .field {
+        margin-left: 6%;
+    }
+}
+@media screen and (max-width: 640px){
+    .field {
+        margin-left: 15%;
+    }
+    .copyright {
+        position: relative;
+    }
 }
