@@ -5,9 +5,9 @@ In this project our team created a web based app called Flavor Savor that finds 
 <br>
 
 ## <strong> Usage of the App <strong>
-* Opens to a display of recipes
+* Opens to a display of featured recipes
 * Search a desired ingredient
-    * displays desired ingredient recipes
+    * displays recipes that include the desired ingredient
 * Click on the Food Giphys tab
     * displays giphys
 
@@ -25,11 +25,14 @@ The following image demonstrates on the mobile:
 
 <br>
 
-## <strong> API'S Used:
+## <strong> Technology Used:
+* HTML
+* CSS
+* Bulma
+* JavaScript/jQuery
 * Giphys api
 * Edamam api 
-*  Third party api:
-    * Glider js
+* Glide.js
 
 <br>
 
