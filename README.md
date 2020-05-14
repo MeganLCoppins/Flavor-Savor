@@ -33,5 +33,5 @@ The following image demonstrates on the mobile:
 
 <br>
 
-Find some delicious recipes: [Flavor Savor](https://dorntrevor7.github.io/Flavor-Savor/)
+Find some delicious recipes: [Flavor Savor](https://meganlcoppins.github.io/Flavor-Savor/)
 
